@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572161198 source:c:\users\shibgotalloh s\downloads\koding\latihan lx\mennganti karakter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
